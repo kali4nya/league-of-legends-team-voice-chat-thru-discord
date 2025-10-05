@@ -25,5 +25,5 @@ Check the **Releases** tab for the `.exe` file — compiled with Python and all 
 
 ---
 
-also its like 75% vibe-coded so there may be stupid mistakes :3
+also its like 70% vibe-coded so there may be stupid mistakes :3
 *im just a boy*
