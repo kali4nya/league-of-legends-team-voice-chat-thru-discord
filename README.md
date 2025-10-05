@@ -13,3 +13,5 @@ The server code will be released in the future. The client is preconfigured to c
 💾 **Download & run**  
 Check the **Releases** tab for the `.exe` file — compiled with Python and all necessary libraries. Just download, run, follow the instructions, and you’re good to go! ✅
 ****
+
+also its like 75% vibe-coded so there may be stupid mistakes
