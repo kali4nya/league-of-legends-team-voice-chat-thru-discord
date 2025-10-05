@@ -20,7 +20,7 @@ Check the **Releases** tab for the `.exe` file — compiled with Python and all 
 
 1. **Join the Discord server** listed in the app UI.  
 2. Go to the `#tokens` channel and type `/token`. The bot will send you a DM with your **API key**.  
-3. **Paste your API key** into the textbox in the app labeled **API Key**.  
+3. **Paste your API key** into the textbox in the app labeled **API Key** and **don't close the app**.  
 4. **When you join a League match**, you will get a DM from the bot with an invite to a voice channel — and **all your teammates in that game will also get a link to the same channel if they have the app installed**. 🎧⚡
 
 ---
