@@ -1,6 +1,14 @@
-# league_voice_chat
-Automatically generate Discord voice channels for your entire LoL team — whether they’re in your party or not. Full match coordination.
-<br><br>
-just client code, the server code will be released in the future, the code is configured to connect to an api enpoint on a server hosted by me :3
-<br><br>
-in realeases tab you can find a .exe file which is compiled with python and all necessary libraries inside just download, run, follow the insctuctions and done
+# ⚡ League Voice Chat
+
+Automatically generate **Discord voice channels for your entire LoL team** — not just your party. Coordinate your whole squad
+
+<br>
+
+🚀 **Just the client for now!**  
+The server code will be released in the future. The client is preconfigured to connect to an API endpoint hosted by me :3
+
+<br>
+
+💾 **Download & run**  
+Check the **Releases** tab for the `.exe` file — compiled with Python and all necessary libraries. Just download, run, follow the instructions, and you’re good to go! ✅
+****
