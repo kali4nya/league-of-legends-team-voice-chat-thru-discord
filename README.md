@@ -1,12 +1,13 @@
 # ⚡ League Voice Chat
 
-Automatically generate **Discord voice channels for your entire LoL team** — not just your party. Coordinate your whole squad
+Automatically generate **Discord voice channels for your entire LoL team** — not just your party. The app sends channel invites to teammates so everyone can join easily. 🎮🎧
 
 <br>
 
 🚀 **Just the client for now!**  
 The server code will be released in the future. The client is preconfigured to connect to an API endpoint hosted by me :3
 
+⚠️ **Heads up:** Only teammates running the client will get invites. Everyone needs to have it installed for full match coverage.
 <br>
 
 💾 **Download & run**  
